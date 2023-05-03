@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.loader{
+    visibility: collapse;
+}
+
+body{
+    background: none;
+}
+
+.content{
+    visibility: visible;
+}
